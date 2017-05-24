@@ -16,11 +16,14 @@ import re
 #old_path = r'File="D:\\1C_BASE\\1Cv8\\NIIRPI_ZUP_3"'
 #new_path = r'Srvr="PSQL";Ref="NIIRPI_zup_3"'
 #КОТ зуп 25
-old_path = r'File="D:\\1C_BASE\\1Cv8\\KOT_ZUP"'
-new_path = r'Srvr="PSQL";Ref="KOT_zup_25"'
+#old_path = r'File="D:\\1C_BASE\\1Cv8\\KOT_ZUP"'
+#new_path = r'Srvr="PSQL";Ref="KOT_zup_25"'
 #КОТ зуп 3
 #old_path = r'File="D:\\1C_BASE\\1Cv8\\KOT_ZUP_3"'
 #new_path = r'Srvr="PSQL";Ref="KOT_zup_3"'
+#НИИРПИ бух
+old_path = r'File="D:\\1C_BASE\\1Cv8\\Buh_n"'
+new_path = r'Srvr="PSQL";Ref="NIIRPI_buh"'
 
 
 
