@@ -3,7 +3,8 @@ import codecs
 import os
 
 #old_path="D:\\1C_BASE\\Нептун\\Buh"
-old_path="D:\\1C_BASE\\1Cv8\\КОТ\\КОТ_бух_30"
+#old_path="D:\\1C_BASE\\1Cv8\\КОТ\\КОТ_бух_30"
+old_path="Бухгалтерия 20"
 directory="\\\\172.16.0.254\\C$\\Users\\"
 names=os.listdir(directory)
 for usr in names:

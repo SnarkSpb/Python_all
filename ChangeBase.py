@@ -22,8 +22,11 @@ import re
 #old_path = r'File="D:\\1C_BASE\\1Cv8\\KOT_ZUP_3"'
 #new_path = r'Srvr="PSQL";Ref="KOT_zup_3"'
 #НИИРПИ бух
-old_path = r'File="D:\\1C_BASE\\1Cv8\\Buh_n"'
-new_path = r'Srvr="PSQL";Ref="NIIRPI_buh"'
+#old_path = r'File="D:\\1C_BASE\\1Cv8\\Buh_n"'
+#new_path = r'Srvr="PSQL";Ref="NIIRPI_buh"'
+#ПКО зуп
+old_path = r'File="D:\\1C_BASE\\PKO\\PKO_ZUP"'
+new_path = r'Srvr="PSQL";Ref="PKO_zup"'
 
 
 
@@ -48,7 +51,7 @@ for usr in names:
 #раскомментировать если тестировать
 #    if usr != "S.Sizov":
 #        continue
-#    print("ТЕСТ")
+#    print("ТЕСТ пройден!")
 #    continue
 #конец теста
     shutil.copy(file_name_v8, file_name_v8_old)
