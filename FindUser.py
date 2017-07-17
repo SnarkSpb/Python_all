@@ -4,7 +4,8 @@ import os
 
 #old_path="D:\\1C_BASE\\Нептун\\Buh"
 #old_path="D:\\1C_BASE\\1Cv8\\КОТ\\КОТ_бух_30"
-old_path="Бухгалтерия 20"
+old_path="PKO_Buh_2017-04-06"
+#old_path="D:\\1C_BASE\\Нептун\\NEPTUN_ZUP_3"
 directory="\\\\172.16.0.254\\C$\\Users\\"
 names=os.listdir(directory)
 for usr in names:

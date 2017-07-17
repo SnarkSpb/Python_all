@@ -25,8 +25,11 @@ import re
 #old_path = r'File="D:\\1C_BASE\\1Cv8\\Buh_n"'
 #new_path = r'Srvr="PSQL";Ref="NIIRPI_buh"'
 #ПКО зуп
-old_path = r'File="D:\\1C_BASE\\PKO\\PKO_ZUP"'
-new_path = r'Srvr="PSQL";Ref="PKO_zup"'
+#old_path = r'File="D:\\1C_BASE\\PKO\\PKO_ZUP"'
+#new_path = r'Srvr="PSQL";Ref="PKO_zup"'
+#НЕПТУН зуп 25
+old_path = r'File="D:\\1C_BASE\\Нептун\\ZUP"'
+new_path = r'Srvr="PSQL";Ref="Neptun_zup_25"'
 
 
 
